@@ -1,0 +1,28 @@
+.grade-badge {
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.grade-excellent {
+  background-color: #2ecc71;
+}
+
+.grade-good {
+  background-color: #3498db;
+}
+
+.grade-average {
+  background-color: #f39c12;
+}
+
+.grade-below-average {
+  background-color: #e67e22;
+}
+
+.grade-poor {
+  background-color: #e74c3c;
+}
